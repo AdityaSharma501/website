@@ -1,0 +1,31 @@
+h1
+{
+    color: rgba(97, 243, 30, 0.459);
+    font-style: italic;
+    font-family: myfont2;
+
+}
+p{
+    color: rgba(245, 241, 10, 0.377);
+    font-style: bold;
+    font-family: myfont1;
+    font-style: underline;
+    font-size: 34px;
+}
+@font-face
+{
+    font-family: myfont2;
+    src:url(Fondamento-Regular.ttf)
+
+}
+@font-face
+{
+    font-family: myfont1;
+    src:url(Bangers-Regular.ttf)
+
+
+}
+ul{
+    color:crimson;
+    font-kerning: unset;
+}
